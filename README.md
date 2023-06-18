@@ -1,2 +1,2 @@
 # NnHsmIjk
-![](Readme_files\image002.jpg)
+![](NnHsmIjk/Readme_files/image002.jpg)
