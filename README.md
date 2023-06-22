@@ -48,7 +48,8 @@ Quick Start Steps-
 5. Press 'Set' button for default NN configuration In:10-Hdn:7-Out:5
 6. Press 'Save Net' button to open file save dialoug box of Figure-5
 7. Enter the save net file name in dialoug box of Figure-5 and press 'Save' button
-8. Press 'Load Net' button of figure-6 to load the saved net file  
+8. Press 'Load Net' button of figure-6 to load the saved net file
+9. Press 'Save Data' button to open file save dialoug box of Figure-7
 
  
 <img src="Readme_files/Main.png">
@@ -77,19 +78,21 @@ Figure-6 Load Neural Network File Dialog Box
 
 
 
+  
+<img src="Readme_files/SaveData.png">
+
+Figure-7 Save Data File Dialog Box
+
+***************************************  
+
+
 <img src="Readme_files/LoadData.png">
 
-Figure-7 Load Data File Dialog Box
+Figure-8 Load Data File Dialog Box
 
 ***************************************  
  
  
- 
-  
-<img src="Readme_files/SaveData.png">
-
-Figure-8 Save Data File Dialog Box
-
 
 
   
