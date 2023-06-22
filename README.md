@@ -35,7 +35,7 @@ Quick Start Steps-
 1. Download the zip file and unzip in a folder NnHsmIjk.
 2. Select NnLib.py and NnXor.py files and load in VS Code
 3. Install necessary library components
-4. Run NnXor.py to popup NnHsmIjk application of figure-2
+4. Run NnXor.py to popup NnHsmIjk application of figure-4
  
 <img src="Readme_files/Main.png">
 Figure-4
