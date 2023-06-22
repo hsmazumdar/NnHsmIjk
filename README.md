@@ -33,7 +33,7 @@ Overall, a two-layer neural network with backpropagation is a basic and widely u
 Quick Start Steps-
 
 1. Download the zip file and unzip in a folder NnHsmIjk.
-2. Select NnLip.py and NnXor.py files and load in VS Code
+2. Select NnLib.py and NnXor.py files and load in VS Code
 3. Install necessary library components
 4. Run NnXor.py to popup NnHsmIjk application of figure-2
  
