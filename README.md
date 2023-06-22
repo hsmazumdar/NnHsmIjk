@@ -50,6 +50,13 @@ Quick Start Steps-
 7. Enter the save net file name in dialoug box of Figure-5 and press 'Save' button
 8. Press 'Load Net' button of figure-6 to load the saved net file
 9. Press 'Save Data' button to open file save dialoug box of Figure-7
+10. Enter the save data file name in dialoug box of Figure-7 and press 'Save' button,
+    this will save default 1000 data records in saved file
+11. Press 'Load Data' button of main application of figure-4 to load the saved data file
+12. Press 'Reset' to reset all weights to random values
+13. Press 'Train' button to train the Neural Net. 
+    Error plot will display the training status shown in figure-9 
+
 
  
 <img src="Readme_files/Main.png">
