@@ -19,3 +19,13 @@ The number of neurons in the hidden layer is a hyperparameter that needs to be d
 
 Overall, a two-layer neural network with backpropagation is a basic and widely used architecture for solving various machine learning problems. While it is relatively simple compared to more complex neural network architectures, it can still be effective for tasks with moderate complexity.
 
+<img src="Readme_files/Main.png">
+
+<img src="Readme_files/SaveData.png">
+
+<img src="Readme_files/LoadData.png">
+
+<img src="Readme_files/SaveNet.png">
+
+<img src="Readme_files/LoadNet.png">
+
