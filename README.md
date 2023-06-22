@@ -19,6 +19,12 @@ The number of neurons in the hidden layer is a hyperparameter that needs to be d
 
 Overall, a two-layer neural network with backpropagation is a basic and widely used architecture for solving various machine learning problems. While it is relatively simple compared to more complex neural network architectures, it can still be effective for tasks with moderate complexity.
 
+Quick Start Steps-
+Download the zip file and unzip in a folder NnHsmIjk.
+Select NnLip.py and NnXor.py files and load in VS Code
+Install necessary library components
+Run NnXor.py to popup NnHsmIjk application of figure-2
+ 
 <img src="Readme_files/Main.png">
 
 <img src="Readme_files/SaveData.png">
