@@ -42,12 +42,12 @@ Quick Start Steps-
 <img src="Readme_files/Main.png">
 Figure-4
   
+7. Enter the save net file name in dialoug box of Figure-5
 
 
 <img src="Readme_files/SaveNet.png">
 Figure-5
 
-7. Enter the save net file name in dialoug box of Figure-5
 
 
 
