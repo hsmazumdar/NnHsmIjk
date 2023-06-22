@@ -1,13 +1,13 @@
 # NnHsmIjk
 A Simple Neural Network with GUI
 
-<img src=Readme_files/image002.jpg>
+<img src=Readme_files/Ann.jpg>
 
 Figure-1 Artificial Neural Network with Input, Hidden and Output neurons.
 
 A multi-layer neural networks shown in figure-1  with backpropagation (BP) are simple and basic form of artificial neural network architecture. It consists of an input layer, a hidden layer, and an output layer.
   
-<img src="Readme_files/image004.jpg">
+<img src="Readme_files/AnnIJK.jpg">
 Figure-2 A two-layer Neural Network with forward pass and back propagation training equations.
 
 
@@ -23,7 +23,7 @@ During the training process, the network adjusts the weights using the backpropa
 The number of neurons in the hidden layer is a hyper parameter that needs to be determined based on the complexity of the problem and the amount of available data. Too few neurons may result in under fitting, while too many neurons can lead to overfitting. Finding an appropriate number of neurons often requires experimentation and tuning.
 
 
-<img src="Readme_files/image006.jpg">
+<img src="Readme_files/AnnBP.jpg">
 Figure-3
   
 
