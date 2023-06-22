@@ -11,8 +11,9 @@ A multi-layer neural networks shown in figure-1  with backpropagation (BP) are s
 <img src="Readme_files/AnnIJK.jpg">
 
 Figure-2 A two-layer Neural Network with forward pass and back propagation training equations.
-
-
+***************************************  
+ 
+ 
 
 
 In figure-2 the input layer (Yi) receives the input data, which could be numerical or categorical features, and passes them forward to the hidden layer (Xj). The hidden layer performs a linear combination of the input values using weights (Wij) and applies a non-linear activation function to produce an output (Yj). Common activation functions include sigmoid, tanh, and ReLU. The purpose of the activation function is to introduce non-linearity into the network, allowing it to learn complex patterns and relationships in the data
@@ -29,7 +30,7 @@ The number of neurons in the hidden layer is a hyper parameter that needs to be 
 
 <img src="Readme_files/AnnBP.jpg">
 Figure-3 Neural Network Backpropagation Algorithm equations
-  
+***************************************  
 
 
 
@@ -50,6 +51,7 @@ Quick Start Steps-
  
 <img src="Readme_files/Main.png">
 Figure-4 A Simple Neural Network Application
+***************************************  
   
 
 
@@ -57,6 +59,7 @@ Figure-4 A Simple Neural Network Application
 
 <img src="Readme_files/SaveNet.png">
 Figure-5 Save Neural Network File Dialog Box
+***************************************  
 
 
 
@@ -64,6 +67,7 @@ Figure-5 Save Neural Network File Dialog Box
 <img src="Readme_files/LoadNet.png">
 
 Figure-6 Load Neural Network File Dialog Box
+***************************************  
 
 
 
@@ -71,9 +75,10 @@ Figure-6 Load Neural Network File Dialog Box
 <img src="Readme_files/LoadData.png">
 
 Figure-7 Load Data File Dialog Box
-
-
-
+***************************************  
+ 
+ 
+ 
   
 <img src="Readme_files/SaveData.png">
 
