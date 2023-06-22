@@ -34,7 +34,7 @@ Figure-3 Neural Network Backpropagation Algorithm equations
 
 
 
-Overall, a two-layer neural network with backpropagation is a basic and widely used architecture for solving various machine learning problems. While it is relatively simple compared to more complex neural network architectures, it can still be effective for tasks with moderate complexity.
+Overall, a two-layer neural network with backpropagation shown in figure-3 is a basic and widely used architecture for solving various machine learning problems. While it is relatively simple compared to more complex neural network architectures, it can still be effective for tasks with moderate complexity.
 
 Quick Start Steps-
 
