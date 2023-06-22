@@ -50,20 +50,18 @@ Figure-4
 <img src="Readme_files/SaveNet.png">
 Figure-5
 
+<img src="Readme_files/LoadNet.png">
 
-
-
-<img src="Readme_files/SaveData.png">
-<img src="Readme_files/LoadData.png">
 Figure-6
+
+<img src="Readme_files/LoadData.png">
   
 
 
 Figure-7
   
+<img src="Readme_files/SaveData.png">
 
-
-<img src="Readme_files/LoadNet.png">
 Figure-8
   
 
