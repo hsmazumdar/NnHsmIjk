@@ -39,30 +39,29 @@ Quick Start Steps-
 5. Press 'Set' button for default NN configuration In:10-Hdn:7-Out:5
 6. Press 'Save Net' button to open file save dialoug box of Figure-5
 7. Enter the save net file name in dialoug box of Figure-5 and press 'Save' button
-8. Press 'Load Net' button of figure-5 to load the saved net file  
+8. Press 'Load Net' button of figure-6 to load the saved net file  
 
  
 <img src="Readme_files/Main.png">
-Figure-4
+Figure-4 A Simple Neural Network Application
   
 
 
 <img src="Readme_files/SaveNet.png">
-Figure-5
+Figure-5 Save Neural Network File Dialog Box
+
 
 <img src="Readme_files/LoadNet.png">
 
-Figure-6
+Figure-6 Load Neural Network File Dialog Box
 
 <img src="Readme_files/LoadData.png">
-  
 
-
-Figure-7
+Figure-7 Load Data File Dialog Box
   
 <img src="Readme_files/SaveData.png">
 
-Figure-8
+Figure-8 Save Data File Dialog Box
   
 
 
