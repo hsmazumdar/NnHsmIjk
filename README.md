@@ -28,7 +28,7 @@ The number of neurons in the hidden layer is a hyper parameter that needs to be 
 
 
 <img src="Readme_files/AnnBP.jpg">
-Figure-3
+Figure-3 Neural Network Backpropagation Algorithm equations
   
 
 
