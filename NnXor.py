@@ -20,7 +20,7 @@ import NnLib as nnet
 
 # .........................................
 app = tk.Tk()
-app.title("Canvas")
+app.title("A Simple Neural Network- HSM")
 # wdt= app.winfo_screenwidth()#getting screen width and height of monitor
 # hgt= app.winfo_screenheight()
 wdt = 500
